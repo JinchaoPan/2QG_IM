@@ -1,0 +1,2 @@
+This file contains the code for our proposed scheme iterative method (IM).
+The main code is Amain_QG_Nicolson1.m.
