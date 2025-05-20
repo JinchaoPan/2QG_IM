@@ -212,13 +212,6 @@ error_absf1=reshape(error_absf(1:(n-1)*(m-1)),[n-1,m-1]);
 error_absf2=reshape(error_absf((n-1)*(m-1)+1:end),[n-1,m-1]);
 
 
-AErrL2_Psi1=(error_absf1(:)'*error_absf1(:))/(psi_01(:)'*psi_01(:));
-AErrL2_Psi2=(error_absf2(:)'*error_absf2(:))/(psi_02(:)'*psi_02(:));
-AErrL2_Psi1=sqrt(AErrL2_Psi1);
-AErrL2_Psi2=sqrt(AErrL2_Psi2);
-
-
-
 psi1_001=psi001(Xi,Yj,ta1);  
 psi2_001=psi002(Xi,Yj,ta1); 
 
