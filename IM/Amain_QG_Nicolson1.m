@@ -46,8 +46,5 @@ for TTk=0:DT:(TT-DT)       % TTk 为每一段时间的初始时刻
     q1_00T=reshape(q1NUM(:,end),[n-1,m-1]);
     q2_00T=reshape(q2NUM(:,end),[n-1,m-1]);
 end
-% ERROR_absp1
-% ERROR_absp2
-% MyZmaxtime
 toc(tstart)
 
