@@ -22,7 +22,7 @@ The time evolution system governing  the fields involved in this equilibrium sta
 
 ## Quick Start 🚀
 ### Prerequisites
-- MATALB2022a
+- MATALB R2022a
 
 ### Installation
 ```bash
