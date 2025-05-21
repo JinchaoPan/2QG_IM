@@ -9,8 +9,7 @@
 ---
 
 ## Project Overview 🔍
-A **clear one-sentence description** of your project's purpose. Example:  
-_"An open-source toolkit for building real-time collaborative applications with WebSocket and CRDT technologies."_
+The time evolution system governing  the fields involved in this equilibrium state constitutes the subject of quasi-geographic (QG) theory, yielding the so-called QG models which  describe  the essential characteristics of the geophysical fluid flows.
 
 ---
 
