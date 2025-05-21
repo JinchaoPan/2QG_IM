@@ -11,6 +11,8 @@
 ## Project Overview 🔍
 The time evolution system governing  the fields involved in this equilibrium state constitutes the subject of quasi-geographic (QG) theory, yielding the so-called QG models which  describe  the essential characteristics of the geophysical fluid flows.
 
+In practice, the Rossby number $Ro$ is small $(O(10^{-3}))$, so a highly refined mesh is required to direct numerical simulation of model, which leads to a time-consuming calculation scheme and requires a significant amount of computational memory. To overcome this difficulty, many researchers have introduced the large eddy simulation (LES) technique.
+
 ---
 
 ## Key Features ✨
