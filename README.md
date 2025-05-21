@@ -9,7 +9,9 @@
 ---
 
 ## Project Overview 🔍
-The time evolution system governing  the fields involved in this equilibrium state constitutes the subject of quasi-geographic (QG) theory, yielding the so-called QG models which  describe  the essential characteristics of the geophysical fluid flows.  we proposed a linearized iterative scheme(IM) to compute the  non-dimensional potential vorticity  and stream function in 2-dimensional space successively.
+The time evolution system governing  the fields involved in this equilibrium state constitutes the subject of quasi-geographic (QG) theory, yielding the so-called QG models which  describe  the essential characteristics of the geophysical fluid flows.  
+
+we proposed a linearized iterative scheme(IM) to compute the  non-dimensional potential vorticity  and stream function in 2-dimensional space successively.
 
 In practice, the Rossby number $Ro$ is small $(O(10^{-3}))$ in QG model, so a highly refined mesh is required to direct numerical simulation of model, which leads to a time-consuming calculation scheme and requires a significant amount of computational memory. To overcome this difficulty, many researchers have introduced the large eddy simulation (LES) technique.
 
