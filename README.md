@@ -22,8 +22,7 @@ The time evolution system governing  the fields involved in this equilibrium sta
 
 ## Quick Start 🚀
 ### Prerequisites
-- Python 3.10+ / Node.js 20+ <!-- Update based on your stack -->
-- Docker 24.0+ (Optional)
+- MATALB2022a
 
 ### Installation
 ```bash
