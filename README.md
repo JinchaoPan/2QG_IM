@@ -15,10 +15,14 @@ we proposed a linearized iterative scheme(IM) to compute the  non-dimensional po
 
 In practice, the Rossby number $Ro$ is small $(O(10^{-3}))$ in QG model, so a highly refined mesh is required to direct numerical simulation of model, which leads to a time-consuming calculation scheme and requires a significant amount of computational memory. To overcome this difficulty, many researchers have introduced the large eddy simulation (LES) technique.
 
-In our work, we set the Rossby number $Ro$ not too small($Ro$ =1.5) to avoid the requirement of highly refined mesh or LES technology. Our objective is to develop an efficient algorithm that is different from traditional direct numerical simulation(DNS).
+In our work, we set the Rossby number $Ro$ not too small($Ro$ =1.5,0.088) to avoid the requirement of highly refined mesh or LES technology. Our objective is to develop an efficient algorithm that is different from traditional direct numerical simulation(DNS).
 
 
 ## Quick Start 🚀
 ### Prerequisites
 - MATALB R2022a
+
+The file "Example1" and "Example2" are contain the code of Example 1 and 2,respectly in section 5 of the manuscript.
+
+By run the main code mentioned in the file "A_explanation", you can obtain the same results in the section 5.
 
