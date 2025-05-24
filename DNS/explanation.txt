@@ -1,2 +1,0 @@
-This file contains the code for Direct Numerical Simulation (DNS) based on the backward Euler method. 
-The main code is Amain_QG2.m
