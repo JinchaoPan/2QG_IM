@@ -1,0 +1,4 @@
+This is code for Examle 2 in the manuscript
+
+The file "Direct Iteration in large time interval" is used to output Table 2 and Figure 6 in manuscript.
+The file "The lay-stripping technique" is used to output  Figure 7-9 in manuscript.
