@@ -1,3 +1,5 @@
 This is code for Examle 1 in the manuscript
+
+The file "IM_our proposed scheme" is used to output  Figure 2-5 and Table 1 in manuscript.
 The file "DNS" is used to output some data in Table 1 in the manuscript.
-The file "The lay-stripping technique" is used to output  Figure 7-9 in manuscript.
+
