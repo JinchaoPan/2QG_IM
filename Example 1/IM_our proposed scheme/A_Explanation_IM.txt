@@ -1,2 +1,4 @@
- This is our proposed scheme IM
+ This is our proposed scheme IM.
+ The main code is Amain_QG_Nicolson.m. You can open the main code and run it directly.
+
  If you notice any difference with the Figure in the manuscript,  please maximize the Figure window to observe more details.
