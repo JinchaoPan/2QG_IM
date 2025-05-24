@@ -1,0 +1,3 @@
+ We show the direct implementations of our iteration algorithm in large time interval (0,T) cannot obtain convergent iteration sequences.
+
+ You can change time interval T in file "MyQG_Mesh_Time".
