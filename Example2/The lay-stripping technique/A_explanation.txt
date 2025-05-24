@@ -1,0 +1,4 @@
+Applying the lay-stripping technique 
+If you notice any difference with the Figure in the manuscript, please maximize the Figure window to observe more details.
+
+The total time interval T and time sub-interval TL=T/L  can be seen in file "MyQG_Mesh_Time".
