@@ -23,7 +23,7 @@ In our work, we set the Rossby number $Ro$ not too small($Ro$ =1.5,0.088) to avo
 - MATALB R2022a
 
 ## Run the code
-- The file "Example1" and "Example2" are contain the code of Example 1 and 2,respectly in section 4 of the manuscript.
+- The file "Example1" and "Example2" are contain the code of Example 1 and 2 in section 4 of the manuscript, respectly.
 - By run the main code mentioned in the file "A_explanation", you can obtain the same results in the section 4.
 - the file "Myfunction5" contains the setting parameters($Ro$, $Re$, $Fr$, $\delta$, $\sigma$) and functions($\psi$, $q$).
 - the file "MyQG_Mesh_Time" contains the setting time mesh and spatial mesh.
