@@ -22,7 +22,7 @@ In our work, we set the Rossby number $Ro$ not too small($Ro$ =1.5,0.088) to avo
 ### Prerequisites
 - MATALB R2022a
 
-The file "Example1" and "Example2" are contain the code of Example 1 and 2,respectly in section 5 of the manuscript.
+The file "Example1" and "Example2" are contain the code of Example 1 and 2,respectly in section 4 of the manuscript.
 
-By run the main code mentioned in the file "A_explanation", you can obtain the same results in the section 5.
+By run the main code mentioned in the file "A_explanation", you can obtain the same results in the section 4.
 
